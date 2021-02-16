@@ -7,7 +7,7 @@ Here you can find the labs for our CodingNomads online Python Programming course
 ## Push me to your GitHub
 
 You should see this document after you have downloaded the sample code. 
-This folder contains **your own copy** of all the labs and that we will be working with.
+This folder contains **your own copy** of all the labs that we will be working with.
 
 Start completing the exercises locally on your computer. After you've
 learned about Git and GitHub, add a new remote to the folder that points
