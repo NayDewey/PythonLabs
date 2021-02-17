@@ -14,3 +14,17 @@
 	- Calculate how many seconds are in a year.
 
 '''
+
+print("Hello World")
+
+#seconds to minute, minute to hour, hour to day, day to year variables and then calculate
+SecondstoMinute = 60
+MinutetoHour = 60
+HourtoDay = 24
+DaytoYear = 365
+
+A = SecondstoMinute * MinutetoHour
+B = MinutetoHour * HourtoDay
+C = HourtoDay * DaytoYear
+
+SecondsinaYear = A * B * C
