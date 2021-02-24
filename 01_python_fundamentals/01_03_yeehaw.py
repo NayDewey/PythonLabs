@@ -11,4 +11,6 @@ first = "I'm a programmer now"
 second = "Yeehaw!"
 third = "Coding here I come!"
 
-print(first,second,last)
+print(first)
+print(second)
+print(third)
