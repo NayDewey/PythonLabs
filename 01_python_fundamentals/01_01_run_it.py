@@ -15,7 +15,7 @@
 
 '''
 
-print("Hello World")
+#print("Hello World")
 
 #seconds to minute, minute to hour, hour to day, day to year variables and then calculate
 SecondstoMinute = 60
@@ -28,3 +28,4 @@ B = MinutetoHour * HourtoDay
 C = HourtoDay * DaytoYear
 
 SecondsinaYear = A * B * C
+print(SecondsinaYear)
